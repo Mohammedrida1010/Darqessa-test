@@ -1,2 +1,2 @@
-# Darqessa-test
-Darqessa-test repository
+# stardew mode
+stardew mode repository
